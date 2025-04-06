@@ -7,9 +7,8 @@
 ## "I'm craving some cheeseburgers" -*Austin*
 
 # **Quote Code**
-## '''python
-### def greet(name)
-###     return f"Hello, {name}!"
+## Python
+'print("Hello World")'
 
 # **Extrenal Links**
 ## My Git Hub Page
